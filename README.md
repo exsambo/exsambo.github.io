@@ -1,2 +1,1 @@
-# exsambo.github.io
 sambo
